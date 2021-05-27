@@ -5,3 +5,5 @@ Lista de sites ruins, não seguro click [aqui](https://github.com/xXGustavoXxBlo
 CUIDADO! SEM ACESSAR OS LINKS!
 
 Lista de sites bons seguros. [aqui](https://github.com/xXGustavoXxBloxx/mod/blob/main/linksseguros)
+
+Lista de Palavras Ruins. [aqui](https://github.com/xXGustavoXxBloxx/mod/blob/main/palavrasruins)
